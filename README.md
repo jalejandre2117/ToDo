@@ -28,6 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="ToDoApp.mov">
 
+Created by screen recording on Mac. I will fix it for next time but the gif does work, it just will not show on the README.
 
 ## Notes
 
