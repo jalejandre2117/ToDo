@@ -28,7 +28,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src="ToDoApp.mov">
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
